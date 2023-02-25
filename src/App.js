@@ -18,7 +18,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className="app">
       {weather && city ? 
         <City weather={weather} setCity={setCity} setWeather={setWeather} /> : 
         <Home handleChange={handleChange} getWeatherDate={getWeatherDate} />

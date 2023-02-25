@@ -17,6 +17,10 @@ body {
   height: 100vh;
 }
 
+.app {
+  height: 100vh;
+}
+
 .container {
   background: #fff;
   width: 350px;
