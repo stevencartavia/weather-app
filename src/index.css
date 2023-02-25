@@ -17,14 +17,9 @@ body {
   height: 100vh;
 }
 
-.app {
-  height: 100vh;
-}
-
 .container {
   background: #fff;
   width: 350px;
-  /* height: 500px; */
   padding: 25px;
   display: flex;
   flex-direction: column;
