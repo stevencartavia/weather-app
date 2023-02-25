@@ -24,7 +24,7 @@ body {
 .container {
   background: #fff;
   width: 350px;
-  height: 500px;
+  /* height: 500px; */
   padding: 25px;
   display: flex;
   flex-direction: column;
